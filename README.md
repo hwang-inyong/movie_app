@@ -2,4 +2,4 @@
 
 React JS Fundamentals Course (2020.08.25)
 
-https://hwang-inyong.github.io/movie_ap
+https://hwang-inyong.github.io/movie_app
